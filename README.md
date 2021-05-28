@@ -10,7 +10,7 @@ What is the differnece between the reported graduation rate and the non-waiver g
 
 Did you know that schools report two different graduation rates, 'graduation rate' and 'non-waiver graduation rates'. A non-waiver grauation rate is what we are typically used to seeing, the percent of students that complete all the requirments in order to get a diploma and graduate. A graduation rate means the percent of all students who 'complete' high school. They don't have to get a diploma, they can get a completeion certificate or maybe a GED. I took a random sample of schools for each year from 2015-2019. As you can see most of the time the non-waiver graduation percentage is not the same as the graduation percent. And most of the time, the non-waiver graduation percentage is significantly lower. I then took the average of graduation rates and non-waiver graduation rates for all the coporations in Indiana for each year. From 2015-2017 there is about a 5% difference in the non-waiver vs graduation rates. And then from 2018-2019 there is about a 10% difference in the non-waiver vs graduation rates. So over time we are give more waivers out and our students are not graduating with a diploma.
 
-2019 Graduation Rate vs Non-Waiver Graduation Rate(https://github.com/averydan/teamEducation/blob/main/Output_Data/2019_Grad_vs_Non-Waiver_Grad_Rates.png)
+2019 Graduation Rate vs Non-Waiver Graduation Rate(https://github.com/brittanyschultz114/HS-graduation-rates/blob/main/Output_Data/2019_Grad_vs_Non-Waiver_Grad_Rates.png)
 
 Indiana State Graduation Rates vs. Non-Waiver Graduation Rates Yearly Average (https://github.com/averydan/teamEducation/blob/main/Output_Data/Indiana_State_Graduation_Rates_vs._Non-Waiver_Graduation_Rates_Yearly_Averages.png)
 
