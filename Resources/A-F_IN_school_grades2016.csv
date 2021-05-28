@@ -1,0 +1,290 @@
+﻿Corp ID,Corp Name,County,2016 Corp Grade
+0015,Adams Central Community Schools,Adams,B
+0025,North Adams Community Schools,Adams,B
+0035,South Adams Schools,Adams,B
+0125,M S D Southwest Allen County Schls,Allen,B
+0225,Northwest Allen County Schools,Allen,B
+0235,Fort Wayne Community Schools,Allen,C
+0255,East Allen County Schools,Allen,B
+0365,Bartholomew Con School Corp,Bartholomew,B
+0370,Flat Rock-Hawcreek School Corp,Bartholomew,B
+0395,Benton Community School Corp,Benton,B
+0515,Blackford County Schools,Blackford,B
+0615,Western Boone Co Com Sch Dist,Boone,B
+0630,Zionsville Community Schools,Boone,A
+0665,Lebanon Community School Corp,Boone,B
+0670,Brown County School Corporation,Brown,B
+0750,Carroll Consolidated School Corp,Carroll,B
+0755,Delphi Community School Corp,Carroll,B
+0775,Pioneer Regional School Corp,Cass,C
+0815,Southeastern School Corp,Cass,C
+0875,Logansport Community Sch Corp,Cass,C
+0940,West Clark Community Schools,Clark,C
+1000,Clarksville Community School Corp,Clark,B
+1010,Greater Clark County Schools,Clark,B
+1125,Clay Community Schools,Clay,B
+1150,Clinton Central School Corporation,Clinton,B
+1160,Clinton Prairie School Corporation,Clinton,C
+1170,Community Schools of Frankfort,Clinton,C
+1180,Rossville Con School District,Clinton,C
+1300,Crawford County Community Sch Corp,Crawford,B
+1315,Barr-Reeve Community Schools Inc,Daviess,A
+1375,North Daviess Com Schools,Daviess,B
+1405,Washington Community Schools,Daviess,C
+1560,Sunman-Dearborn Com Sch Corp,Dearborn,B
+1600,South Dearborn Community Sch Corp,Dearborn,C
+1620,Lawrenceburg Community School Corp,Dearborn,B
+1655,Decatur County Community Schools,Decatur,B
+1730,Greensburg Community Schools,Decatur,B
+1805,DeKalb Co Eastern Com Sch Dist,Dekalb,B
+1820,Garrett-Keyser-Butler Com Sch Corp,Dekalb,B
+1835,DeKalb Co Ctl United Sch Dist,Dekalb,B
+1875,Delaware Community School Corp,Delaware,B
+1885,Wes-Del Community Schools,Delaware,B
+1895,Liberty-Perry Community Sch Corp,Delaware,B
+1900,Cowan Community School Corp,Delaware,B
+1910,Yorktown Community Schools,Delaware,B
+1940,Daleville Community Schools,Delaware,B
+1970,Muncie Community Schools,Delaware,C
+2040,Northeast Dubois Co Sch Corp,Dubois,A
+2100,Southeast Dubois Co Sch Corp,Dubois,A
+2110,Southwest Dubois Co Sch Corp,Dubois,B
+2120,Greater Jasper Consolidated Schs,Dubois,A
+2155,Fairfield Community Schools,Elkhart,B
+2260,Baugo Community Schools,Elkhart,B
+2270,Concord Community Schools,Elkhart,C
+2275,Middlebury Community Schools,Elkhart,B
+2285,Wa-Nee Community Schools,Elkhart,A
+2305,Elkhart Community Schools,Elkhart,C
+2315,Goshen Community Schools,Elkhart,B
+2395,Fayette County School Corporation,Fayette,B
+2400,New Albany-Floyd Co Con Sch,Floyd,B
+2435,Attica Consolidated School Corp,Fountain,C
+2440,Covington Community School Corp,Fountain,B
+2455,Southeast Fountain School Corp,Fountain,B
+2475,Franklin County Community Sch Corp,Franklin,B
+2645,Rochester Community School Corp,Fulton,B
+2650,Caston School Corporation,Fulton,B
+2725,East Gibson School Corporation,Gibson,B
+2735,North Gibson School Corp,Gibson,B
+2765,South Gibson School Corporation,Gibson,B
+2815,Eastbrook Community Sch Corp,Grant,B
+2825,Madison-Grant United School Corp,Grant,B
+2855,Mississinewa Community School Corp,Grant,C
+2865,Marion Community Schools,Grant,C
+2920,Bloomfield School District,Greene,B
+2940,Eastern Greene Schools,Greene,B
+2950,Linton-Stockton School Corporation,Greene,B
+2960,M S D Shakamak Schools,Greene,B
+2980,White River Valley School District,Greene,B
+3005,Hamilton Southeastern Schools,Hamilton,A
+3025,Hamilton Heights School Corp,Hamilton,B
+3030,Westfield-Washington Schools,Hamilton,B
+3055,Sheridan Community Schools,Hamilton,C
+3060,Carmel Clay Schools,Hamilton,A
+3070,Noblesville Schools,Hamilton,B
+3115,Southern Hancock Co Com Sch Corp,Hancock,B
+3125,Greenfield-Central Com Schools,Hancock,B
+3135,Mt Vernon Community School Corp,Hancock,C
+3145,Eastern Hancock Co Com Sch Corp,Hancock,B
+3160,Lanesville Community School Corp,Harrison,B
+3180,North Harrison Com School Corp,Harrison,B
+3190,South Harrison Com Schools,Harrison,B
+3295,North West Hendricks Schools,Hendricks,A
+3305,Brownsburg Community School Corp,Hendricks,A
+3315,Avon Community School Corp,Hendricks,B
+3325,Danville Community School Corp,Hendricks,A
+3330,Plainfield Community School Corp,Hendricks,A
+3335,Mill Creek Community Sch Corp,Hendricks,B
+3405,Blue River Valley Schools,Henry,B
+3415,South Henry School Corp,Henry,C
+3435,Shenandoah School Corporation,Henry,B
+3445,New Castle Community School Corp,Henry,B
+3455,C A Beard Memorial School Corp,Henry,C
+3460,Taylor Community School Corp,Howard,C
+3470,Northwestern School Corp,Howard,B
+3480,Eastern Howard School Corporation,Howard,C
+3490,Western School Corp,Howard,A
+3500,Kokomo School Corporation,Howard,C
+3625,Huntington Co Com Sch Corp,Huntington,B
+3640,Medora Community School Corp,Jackson,B
+3675,Seymour Community Schools,Jackson,C
+3695,Brownstown Cnt Com Sch Corp,Jackson,B
+3710,Crothersville Community Schools,Jackson,B
+3785,Kankakee Valley School Corp,Jasper,B
+3815,Rensselaer Central School Corp,Jasper,B
+3945,Jay School Corporation,Jay,B
+3995,Madison Consolidated Schools,Jefferson,B
+4000,Southwestern-Jefferson Co Con,Jefferson,C
+4015,Jennings County School Corporation,Jennings,B
+4145,Clark-Pleasant Community Sch Corp,Johnson,B
+4205,Center Grove Community School Corp,Johnson,B
+4215,Edinburgh Community School Corp,Johnson,B
+4225,Franklin Community School Corp,Johnson,B
+4245,Greenwood Community Sch Corp,Johnson,A
+4255,Nineveh-Hensley-Jackson United,Johnson,B
+4315,North Knox School Corp,Knox,B
+4325,South Knox School Corp,Knox,B
+4335,Vincennes Community School Corp,Knox,B
+4345,Wawasee Community School Corp,Kosciusko,C
+4415,Warsaw Community Schools,Kosciusko,B
+4445,Tippecanoe Valley School Corp,Kosciusko,B
+4455,Whitko Community School Corp,Whitley,B
+4515,Prairie Heights Community Sch Corp,LaGrange,B
+4525,Westview School Corporation,LaGrange,B
+4535,Lakeland School Corporation,LaGrange,C
+4580,Hanover Community School Corp,Lake,B
+4590,River Forest Community Sch Corp,Lake,D
+4600,Merrillville Community School,Lake,C
+4615,Lake Central School Corporation,Lake,B
+4645,Tri-Creek School Corporation,Lake,B
+4650,Lake Ridge New Tech Schools,Lake,C
+4660,Crown Point Community School Corp,Lake,B
+4670,School City of East Chicago,Lake,D
+4680,Lake Station Community Schools,Lake,C
+4690,Gary Community School Corp,Lake,F
+4700,Griffith Public Schools,Lake,B
+4710,School City of Hammond,Lake,C
+4720,School Town of Highland,Lake,B
+4730,School City of Hobart,Lake,B
+4740,School Town of Munster,Lake,B
+4760,School City of Whiting,Lake,B
+4805,New Prairie United School Corp,LaPorte,B
+4860,M S D of New Durham Township,LaPorte,C
+4915,Tri-Township Cons School Corp,LaPorte,C
+4925,Michigan City Area Schools,LaPorte,C
+4940,South Central Com School Corp,LaPorte,B
+4945,LaPorte Community School Corp,LaPorte,B
+5075,North Lawrence Com Schools,Lawrence,C
+5085,Mitchell Community Schools,Lawrence,C
+5245,Frankton-Lapel Community Schools,Madison,C
+5255,South Madison Com Sch Corp,Madison,B
+5265,Alexandria Community School Corp,Madison,C
+5275,Anderson Community School Corp,Madison,C
+5280,Elwood Community School Corp,Madison,C
+5300,M S D Decatur Township,Marion,C
+5310,Franklin Township Com Sch Corp,Marion,B
+5330,M S D Lawrence Township,Marion,C
+5340,Perry Township Schools,Marion,B
+5350,M S D Pike Township,Marion,C
+5360,M S D Warren Township,Marion,C
+5370,M S D Washington Township,Marion,C
+5375,M S D Wayne Township,Marion,C
+5380,Beech Grove City Schools,Marion,C
+5385,Indianapolis Public Schools,Marion,D
+5400,School Town of Speedway,Marion,A
+5455,Culver Community Schools Corp,Marshall,C
+5470,Argos Community Schools,Marshall,C
+5480,Bremen Public Schools,Marshall,B
+5485,Plymouth Community School Corp,Marshall,B
+5495,Triton School Corporation,Marshall,B
+5520,Shoals Community School Corp,Martin,C
+5525,Loogootee Community Sch Corp,Martin,B
+5615,Maconaquah School Corp,Miami,C
+5620,North Miami Community Schools,Miami,C
+5625,Oak Hill United School Corp,Miami,C
+5635,Peru Community Schools,Miami,B
+5705,Richland-Bean Blossom C S C,Monroe,A
+5740,Monroe County Community Sch Corp,Monroe,B
+5835,North Montgomery Com Sch Corp,Montgomery,B
+5845,South Montgomery Com Sch Corp,Montgomery,B
+5855,Crawfordsville Community Schools,Montgomery,B
+5900,Monroe-Gregg School District,Morgan,C
+5910,Eminence Community School Corp,Morgan,C
+5925,M S D Martinsville Schools,Morgan,B
+5930,Mooresville Con School Corp,Morgan,B
+5945,North Newton School Corp,Newton,C
+5995,South Newton School Corp,Newton,B
+6055,Central Noble Com School Corp,Noble,C
+6060,East Noble School Corporation,Noble,B
+6065,West Noble School Corporation,Noble,B
+6080,Rising Sun-Ohio Co Com,Ohio,C
+6145,Orleans Community Schools,Orange,B
+6155,Paoli Community School Corp,Orange,C
+6160,Springs Valley Com School Corp,Orange,C
+6195,Spencer-Owen Community Schools,Owen,B
+6260,Southwest Parke Com Sch Corp,Parke,C
+6325,Perry Central Com Schools Corp,Perry,B
+6340,Cannelton City Schools,Perry,B
+6350,Tell City-Troy Twp School Corp,Perry,B
+6375,North Central Parke Comm Schl Corp,Parke,C
+6445,Pike County School Corp,Pike,B
+6460,M S D Boone Township,Porter,B
+6470,Duneland School Corporation,Porter,B
+6510,East Porter County School Corp,Porter,B
+6520,Porter Township School Corp,Porter,B
+6530,Union Township School Corp,Porter,B
+6550,Portage Township Schools,Porter,B
+6560,Valparaiso Community Schools,Porter,B
+6590,M S D Mount Vernon,Posey,A
+6600,M S D North Posey Co Schools,Posey,A
+6620,Eastern Pulaski Community Sch Corp,Pulaski,B
+6630,West Central School Corp,Pulaski,C
+6705,South Putnam Community Schools,Putnam,C
+6715,North Putnam Community Schools,Putnam,B
+6750,Cloverdale Community Schools,Putnam,B
+6755,Greencastle Community School Corp,Putnam,C
+6795,Union School Corporation,Randolph,C
+6805,Randolph Southern School Corp,Randolph,B
+6820,Monroe Central School Corp,Randolph,B
+6825,Randolph Central School Corp,Randolph,B
+6835,Randolph Eastern School Corp,Randolph,C
+6865,South Ripley Com Sch Corp,Ripley,B
+6895,Batesville Community School Corp,Ripley,B
+6900,Jac-Cen-Del Community Sch Corp,Ripley,B
+6910,Milan Community Schools,Ripley,B
+6995,Rush County Schools,Rush,B
+7150,John Glenn School Corporation,St Joseph,B
+7175,Penn-Harris-Madison School Corp,St Joseph,A
+7200,School City of Mishawaka,St Joseph,C
+7205,South Bend Community School Corp,St Joseph,D
+7215,Union-North United School Corp,St Joseph,C
+7230,Scott County School District 1,Scott,C
+7255,Scott County School District 2,Scott,B
+7285,Shelby Eastern Schools,Shelby,B
+7350,Northwestern Con School Corp,Shelby,B
+7360,Southwestern Con Sch Shelby Co,Shelby,A
+7365,Shelbyville Central Schools,Shelby,B
+7385,North Spencer County Sch Corp,Spencer,A
+7445,South Spencer County Sch Corp,Spencer,B
+7495,Oregon-Davis School Corp,Starke,C
+7515,North Judson-San Pierre Sch Corp,Starke,C
+7525,Knox Community School Corp,Starke,C
+7605,Fremont Community Schools,Steuben,B
+7610,Hamilton Community Schools,Steuben,C
+7615,M S D Steuben County,Steuben,B
+7645,Northeast School Corp,Sullivan,C
+7715,Southwest School Corp,Sullivan,B
+7775,Switzerland County School Corp,Switzerland,B
+7855,Lafayette School Corporation,Tippecanoe,C
+7865,Tippecanoe School Corp,Tippecanoe,B
+7875,West Lafayette Com School Corp,Tippecanoe,A
+7935,Tri-Central Community Schools,Tipton,C
+7945,Tipton Community School Corp,Tipton,B
+7950,Union Co/Clg Corner Joint Sch Dist,Union,B
+7995,Evansville Vanderburgh School Corp,Vanderburgh,C
+8010,North Vermillion Com Sch Corp,Vermillion,C
+8020,South Vermillion Com Sch Corp,Vermillion,C
+8030,Vigo County School Corp,Vigo,B
+8045,Manchester Community Schools,Wabash,B
+8050,M S D Wabash County Schools,Wabash,B
+8060,Wabash City Schools,Wabash,C
+8115,M S D Warren County,Warren,B
+8130,Warrick County School Corp,Warrick,A
+8205,Salem Community Schools,Washington,C
+8215,East Washington School Corp,Washington,B
+8220,West Washington School Corp,Washington,B
+8305,Nettle Creek School Corporation,Wayne,B
+8355,Western Wayne Schools,Wayne,D
+8360,Centerville-Abington Com Schs,Wayne,B
+8375,Northeastern Wayne Schools,Wayne,B
+8385,Richmond Community Schools,Wayne,C
+8425,Southern Wells Com Schools,Wells,B
+8435,Northern Wells Com Schools,Wells,B
+8445,M S D Bluffton-Harrison,Wells,C
+8515,North White School Corp,White,B
+8525,Frontier School Corporation,White,B
+8535,Tri-County School Corporation,White,B
+8565,Twin Lakes School Corp,White,C
+8625,Smith-Green Community Schools,Whitley,B
+8665,Whitley Co Cons Schools,Whitley,B
